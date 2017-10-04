@@ -1,5 +1,5 @@
 {
-    "name": "divante/connector-graylog2-logger",
+    "name": "divante-ltd/connector-graylog2-logger",
     "type": "library",
     "description": "Graylog custom handler",
     "require": {
